@@ -14,6 +14,6 @@ class Solution {
             else
             e=mid-1;
         }
-        return Math.round(e);
+        return e;
     }
 }
