@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0398-random-pick-index](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0398-random-pick-index) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Binary Search
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Simulation
 |  |
 | ------- |
