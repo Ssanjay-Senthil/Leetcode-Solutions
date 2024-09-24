@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [1873-longest-nice-substring](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Hash Table
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0398-random-pick-index](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0398-random-pick-index) |
+| [1873-longest-nice-substring](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Bit Manipulation
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1873-longest-nice-substring](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1873-longest-nice-substring) |
 ## Simulation
 |  |
 | ------- |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [1755-defuse-the-bomb](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1755-defuse-the-bomb) |
+| [1873-longest-nice-substring](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Matrix
 |  |
@@ -145,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1873-longest-nice-substring](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1873-longest-nice-substring) |
 <!---LeetCode Topics End-->
