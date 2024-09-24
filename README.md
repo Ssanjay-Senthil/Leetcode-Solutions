@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0792-binary-search) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Simulation
