@@ -8,7 +8,7 @@ class Solution {
             if(set.contains(Character.toLowerCase(s.charAt(i))) && set.contains(Character.toUpperCase(s.charAt(i))))
             continue;
             String s1 = longestNiceSubstring(s.substring(0,i));
-            String s2 = longestNiceSubstring(s.substring(i+1,s.length()));
+            String s2 = longestNiceSubstring(s.substring(i+1));
             return s1.length()>=s2.length()?s1:s2;
         }
         return s;
