@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0179-largest-number](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0219-contains-duplicate-ii](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0268-missing-number) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0055-jump-game) |
+| [0179-largest-number](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0179-largest-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0179-largest-number](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0273-integer-to-english-words](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0290-word-pattern) |
