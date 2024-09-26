@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [1806-count-of-matches-in-tournament](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1806-count-of-matches-in-tournament) |
+| [2083-three-divisors](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/2083-three-divisors) |
 | [2383-add-two-integers](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/2383-add-two-integers) |
 ## Binary Search
 |  |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0258-add-digits) |
+| [2083-three-divisors](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/2083-three-divisors) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -201,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
