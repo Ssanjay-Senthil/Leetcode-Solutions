@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [1806-count-of-matches-in-tournament](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1806-count-of-matches-in-tournament) |
 | [2083-three-divisors](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/2083-three-divisors) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2383-add-two-integers](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/2383-add-two-integers) |
 ## Binary Search
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1755-defuse-the-bomb](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1755-defuse-the-bomb) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3194-find-words-containing-character](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/3194-find-words-containing-character) |
 ## Interactive
 |  |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/2083-three-divisors) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Reservoir Sampling
 |  |
 | ------- |
