@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0398-random-pick-index) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [1806-count-of-matches-in-tournament](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1806-count-of-matches-in-tournament) |
 | [2383-add-two-integers](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/2383-add-two-integers) |
 ## Binary Search
 |  |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [1806-count-of-matches-in-tournament](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1806-count-of-matches-in-tournament) |
 ## Number Theory
 |  |
 | ------- |
