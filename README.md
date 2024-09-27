@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0696-count-binary-substrings](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
+| [0782-jewels-and-stones](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
 | [1873-longest-nice-substring](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3194-find-words-containing-character](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/3194-find-words-containing-character) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0398-random-pick-index) |
 | [0409-longest-palindrome](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0782-jewels-and-stones](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
 | [1873-longest-nice-substring](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Bit Manipulation
