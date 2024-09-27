@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0398-random-pick-index) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [1610-xor-operation-in-an-array](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1610-xor-operation-in-an-array) |
 | [1806-count-of-matches-in-tournament](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1806-count-of-matches-in-tournament) |
 | [2083-three-divisors](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1610-xor-operation-in-an-array](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1610-xor-operation-in-an-array) |
 | [1873-longest-nice-substring](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1873-longest-nice-substring) |
 ## Simulation
 |  |
