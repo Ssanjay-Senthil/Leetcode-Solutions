@@ -4,9 +4,7 @@ class Solution {
         Arrays.sort(students);
         int moves=0;
         for(int i=0;i<seats.length;i++)
-        {
-            moves+=Math.abs(students[i]-seats[i]);
-        }
+        moves+=Math.abs(students[i]-seats[i]);
         return moves;
     }
 }
