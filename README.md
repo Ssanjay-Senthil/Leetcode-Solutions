@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1755-defuse-the-bomb](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1755-defuse-the-bomb) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/3194-find-words-containing-character) |
 ## Interactive
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Heap (Priority Queue)
 |  |
@@ -235,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0908-middle-of-the-linked-list) |
+## Counting Sort
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
