@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
+| [1036-rotting-oranges](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1755-defuse-the-bomb](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1755-defuse-the-bomb) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [1036-rotting-oranges](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 ## Counting
 |  |
 | ------- |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1036-rotting-oranges](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
