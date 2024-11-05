@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1036-rotting-oranges](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1039-find-the-town-judge) |
+| [1073-number-of-enclaves](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1755-defuse-the-bomb](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1755-defuse-the-bomb) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [1036-rotting-oranges](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
 ## Counting
 |  |
 | ------- |
@@ -281,12 +283,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1073-number-of-enclaves](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -305,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1039-find-the-town-judge) |
+## Union Find
+|  |
+| ------- |
+| [1073-number-of-enclaves](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
 <!---LeetCode Topics End-->
