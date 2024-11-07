@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0744-network-delay-time) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0547-number-of-provinces](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0744-network-delay-time) |
 | [1073-number-of-enclaves](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
 |  |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0744-network-delay-time) |
 | [1036-rotting-oranges](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
@@ -311,10 +314,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0744-network-delay-time) |
 | [1039-find-the-town-judge](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1039-find-the-town-judge) |
 ## Union Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [1073-number-of-enclaves](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
