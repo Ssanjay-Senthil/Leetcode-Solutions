@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0066-plus-one) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
+| [0036-valid-sudoku](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0205-isomorphic-strings](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0268-missing-number) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [1036-rotting-oranges](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
