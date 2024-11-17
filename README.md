@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0212-word-search-ii](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0212-word-search-ii) |
+| [0218-the-skyline-problem](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0268-missing-number) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0218-the-skyline-problem](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0744-network-delay-time](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0218-the-skyline-problem](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 | [1873-longest-nice-substring](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1873-longest-nice-substring) |
 ## Design
 |  |
@@ -403,4 +406,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0212-word-search-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
+## Line Sweep
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
