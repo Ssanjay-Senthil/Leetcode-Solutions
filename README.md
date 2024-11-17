@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0212-word-search-ii](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0268-missing-number) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
+| [0212-word-search-ii](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 | [0273-integer-to-english-words](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0344-reverse-string) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0212-word-search-ii](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 | [1036-rotting-oranges](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
 ## Counting
@@ -391,8 +394,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0126-word-ladder-ii) |
+| [0212-word-search-ii](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Trie
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
