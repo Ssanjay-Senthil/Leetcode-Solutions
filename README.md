@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 | [0218-the-skyline-problem](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0220-contains-duplicate-iii) |
 | [0238-product-of-array-except-self](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0179-largest-number) |
+| [0220-contains-duplicate-iii](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0220-contains-duplicate-iii) |
 | [0268-missing-number](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0219-contains-duplicate-ii](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0220-contains-duplicate-iii) |
 | [1755-defuse-the-bomb](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1755-defuse-the-bomb) |
 | [1873-longest-nice-substring](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -422,4 +425,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0220-contains-duplicate-iii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
