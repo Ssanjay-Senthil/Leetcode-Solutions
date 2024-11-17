@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0135-candy](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0189-rotate-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
