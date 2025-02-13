@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0268-missing-number) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0212-word-search-ii](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0212-word-search-ii) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Monotonic Stack
 |  |
 | ------- |
