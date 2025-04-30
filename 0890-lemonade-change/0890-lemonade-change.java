@@ -10,7 +10,7 @@ class Solution {
                     ten++; 
                     five--;
                 }
-            else return false;
+                else return false;
             }
             else{
                 if(five>0 && ten>0) 
