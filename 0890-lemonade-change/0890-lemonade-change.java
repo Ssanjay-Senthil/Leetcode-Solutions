@@ -1,7 +1,7 @@
 class Solution {
     public boolean lemonadeChange(int[] bills) {
         int n = bills.length;
-        int arr[] = new int[2];
+        int arr[] = new int[3];
         for(int i=0;i<n;i++){
             if(bills[i]==5) arr[0]++;
             else if(bills[i]==10){
