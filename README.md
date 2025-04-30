@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0941-sort-array-by-parity) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0696-count-binary-substrings](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0941-sort-array-by-parity) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
+| [0455-assign-cookies](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Dynamic Programming
 |  |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0941-sort-array-by-parity](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Ssanjay-Senthil/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
